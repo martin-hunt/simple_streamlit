@@ -1,6 +1,4 @@
 numpy
-scipy
 soundfile
 plotly
-moviepy
 librosa
